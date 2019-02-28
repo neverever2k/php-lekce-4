@@ -16,7 +16,7 @@ $product = [
     'available' => true
 ];
 
-var_dump($product['price']);
+var_dump($product['price']);;
 
 /*
     A) float(11930)
