@@ -21,7 +21,7 @@ $totalPrice = $order['productsPrice'] + $order['delivery']['price'] * $order['va
 echo "Cena objednávky: $totalPrice";
 
 /*
-    A) Cena objednávky: 15050
+ => A) Cena objednávky: 15050
     B) Cena objednávky: 15050.0
     C) Notice: Undefined index: price in /var/www/html/php-lekce-3/hra/3.php on line 19
 */

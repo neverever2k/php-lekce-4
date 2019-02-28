@@ -23,6 +23,6 @@ echo "vám dodá e-shop $eshop";
 
 /*
     A) Sekačku se slevou 49.0% vám dodá e-shop vseprozahradu.cz
-    B) Sekačku Gardenius se slevou 49%vám dodá e-shop vseprozahradu.cz
+ => B) Sekačku Gardenius se slevou 49%vám dodá e-shop vseprozahradu.cz
     C) Sekačku Gardenius se slevou 49.0% vám dodá e-shop vseprozahradu.cz
 */

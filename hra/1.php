@@ -20,6 +20,6 @@ var_dump($product['price']);
 
 /*
     A) float(11930)
-    B) int(11930)
+ => B) int(11930)
     C) NULL
 */
