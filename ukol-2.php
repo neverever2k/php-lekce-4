@@ -17,10 +17,19 @@
             </tr>
         </thead>
         <tbody>
+        <?php
+        $radek = '1';
+        $pocetRadku = '5';
+        while ($radek <=$pocetRadku){
+        ?>
             <tr>
-                <td>prvni sloupec</td>
+                <td><?php echo $radek;?></td>
                 <td>druhy sloupec</td>
             </tr>
+        <?php
+            $radek ++;
+        }
+        ?>
         </tbody>
     </table>
 </div>
