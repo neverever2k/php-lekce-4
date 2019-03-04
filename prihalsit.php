@@ -8,3 +8,5 @@ $_SESSION['loggedIn'] = true;
 
 // session je uložena na serveru
 var_dump($_SESSION);
+
+

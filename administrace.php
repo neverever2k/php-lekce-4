@@ -6,3 +6,4 @@ if (isset($_SESSION['loggedIn'])) {
 else if(unset($_SESSION['loggedIn'])){
     echo "neprihlasen";}
 }
+?>
